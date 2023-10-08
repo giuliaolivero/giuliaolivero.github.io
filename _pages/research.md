@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Selected Work in Progress
+### Selected Work in Progress
 \\
 \\
 **Gender wage gap and the child penalty**

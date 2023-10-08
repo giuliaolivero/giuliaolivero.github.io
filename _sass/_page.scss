@@ -16,6 +16,10 @@
   }
 }
 
+.nav-button {
+  font-size: 1.2em; /* Adjust the value to your preference */
+}
+
 .page {
   @include breakpoint($large) {
     @include span(10 of 12 last);
@@ -37,6 +41,8 @@
 .page__title {
   margin-top: 0;
   line-height: 1;
+  margin-bottom: 1em;
+  font-size: 2em;
 
   & + .page__meta {
     margin-top: -0.5em;
@@ -50,13 +56,34 @@
 
 .page__content {
 
-  h2 {
+  h1 {
+    margin-top: 1em;
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
+    font-size: 1.5em;
+  }
+
+  h2 {
+    margin-top: 1em;
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid $border-color;
+    font-size: 1em;
+  }
+
+  h3 {
+    margin-top: 1em;
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid $border-color;
+    font-size: 0.8em;
   }
 
   p, li, dl {
-    font-size: 1em;
+    font-size: 1.2em;
+    margin-bottom: 0.5em;
+  }
+
+  ul, ol {
+    margin_bottom: 1em;
   }
 
   /* paragraph indents */
@@ -220,7 +247,9 @@
   text-transform: uppercase;
 }
 
-
+body {
+  font-size: 20px;
+}
 /*
    Page meta
    ========================================================================== */
