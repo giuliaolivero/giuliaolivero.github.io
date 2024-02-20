@@ -12,6 +12,6 @@ I am a PhD candidate in the [Jeb E. Brooks School of Public Policy](https://publ
 
 My work primarily focuses on how local labor markets and neighborhood characteristics shape economic outcomes for women and undocumented immigrants. 
 
-I work under the supervision of  [Doug Miller](https://publicpolicy.cornell.edu/people/douglas-miller/), [Eleonora Patacchini](https://www.epatacchini.com/)  and [Seth Sanders](https://publicpolicy.cornell.edu/people/seth-sanders/). 
+I work under the supervision of  [Doug Miller](https://publicpolicy.cornell.edu/people/douglas-miller/), [Matt Hall](https://publicpolicy.cornell.edu/people/matthew-hall/), [Eleonora Patacchini](https://www.epatacchini.com/)  and [Seth Sanders](https://publicpolicy.cornell.edu/people/seth-sanders/). 
 
 

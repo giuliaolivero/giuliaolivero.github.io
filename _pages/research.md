@@ -28,7 +28,12 @@ a set of complementary identification strategies based on differences in mobiliz
 <br>
 ## Other work 
 <br>
-**Local governors as tax enforcers** with C. Lacava
+**Peers' parents and child penalty in employment** with H. Kleven and E. Patacchini
 
+<br>
+**Local governors as tax enforcers** with C. Lacava
+> We study the effect of a policy implemented in Italy since 2009, allowing municipalities to cooperate with the Revenue Agency and use their information set (real estate registries, soft information) to signal the tax evaders to the tax authority. If evasion is detected, the municipality receives up to the full amount of the recovered taxes. Despite the initial enthusiasm, the policy take-up remained quite low because: i) costs of monitoring and reporting were perceived as higher than the potential benefits, and ii) politicians feared political backlash. Combining data on policy take-up obtained through FOIA requests, public data on municipalities’ balance sheets and election outcomes, and granular data on tax declarations, and using a matched difference-in-difference framework, we find evidence of higher compliance among taxpayers in the municipalities that adopted the policy. Moreover, we find preliminary evidence that mayors who entered the policy agreement had a higher probability of being re-elected.
+
+<br>
 **Event studies: choice of reference period** with D. Miller
 
