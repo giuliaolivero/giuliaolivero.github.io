@@ -20,6 +20,9 @@ author_profile: true
 a set of complementary identification strategies based on differences in mobilization rates, casualty rates, wartime production conversion, and pre-war industry composition. Our outcomes are derived from the Project Talent database, a unique cohort panel dataset that captures career choice and subject-based interest scores for the 1942-1946 cohorts of high-school students.
 
 <br>
+**Peers' parents and child penalty in employment** with H. Kleven and E. Patacchini
+
+<br>
 ### Immigration
 <br>
 **The local context of being undocumented: variation in economic outcomes for unauthorized workers across US labor markets** with M. Hall
@@ -27,9 +30,6 @@ a set of complementary identification strategies based on differences in mobiliz
 
 <br>
 ## Other work 
-<br>
-**Peers' parents and child penalty in employment** with H. Kleven and E. Patacchini
-
 <br>
 **Local governors as tax enforcers** with C. Lacava
 
