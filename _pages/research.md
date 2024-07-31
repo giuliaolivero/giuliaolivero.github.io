@@ -11,7 +11,7 @@ author_profile: true
 > Child penalties account for most of the remaining gender inequality in the labor market. However, very little is known about why child penalties remain so large and gendered. In this work  I investigate the effect of the closing of the gender wage gap on employment penalties for mothers over the years 1980-2010.  To do so, I leverage gender differences in occupational choices and combine gender-specific local labor market shocks with pseudo-event studies around childbirth. I find evidence of a greater fall in child penalties in local labor markets with a faster convergence in the wage rate of women and men, and I explore possible mechanisms.
 
 <br>
-**Peers' parents and child penalty in employment** with H. Kleven and E. Patacchini
+**Child Penalties and Gender Norms: Classroom Exposure Effects** with H. Kleven and E. Patacchini
 > This paper investigates whether the impact of children on the labor market outcomes of women relative to men - child penalties - is shaped by the work behavior of peers' parents during adolescence. Leveraging pseudo-random variation in the proportion of peers with working parents across cohorts within schools, we find that greater exposure to working mothers during adolescence reduces the child penalty in employment later in life. Conversely, we find suggestive evidence that greater exposure to working fathers increases the penalty. We interpret these results as evidence that exposure to parental role models during adolescence is a critical factor in shaping child-related gender gaps in the labor market.
     
 <br>
