@@ -11,8 +11,9 @@ author_profile: true
 > Child penalties account for most of the remaining gender inequality in the labor market. However, very little is known about why child penalties remain so large and gendered. In this work  I investigate the effect of the closing of the gender wage gap on employment penalties for mothers over the years 1980-2010.  To do so, I leverage gender differences in occupational choices and combine gender-specific local labor market shocks with pseudo-event studies around childbirth. I find evidence of a greater fall in child penalties in local labor markets with a faster convergence in the wage rate of women and men, and I explore possible mechanisms.
 
 <br>
-**Child Penalties and Gender Norms: Classroom Exposure Effects** with H. Kleven and E. Patacchini
-> This paper investigates whether the impact of children on the labor market outcomes of women relative to men - child penalties - is shaped by the work behavior of peers' parents during adolescence. Leveraging pseudo-random variation in the proportion of peers with working parents across cohorts within schools, we find that greater exposure to working mothers during adolescence reduces the child penalty in employment later in life. Conversely, we find suggestive evidence that greater exposure to working fathers increases the penalty. We interpret these results as evidence that exposure to parental role models during adolescence is a critical factor in shaping child-related gender gaps in the labor market.
+**[Child Penalties and Parental Role Models: Classroom Exposure Effects](/files/KOP_sept2024.pdf)** with H. Kleven and E. Patacchini.
+ _Working Paper, September 2024_
+> This paper investigates whether the effects of children on the labor market outcomes of women relative to men — child penalties — are shaped by the work behavior of peers’ parents during adolescence. Leveraging quasi-random variation in the fraction of peers with working parents  across cohorts within schools, we find that greater exposure to working mothers during adolescence substantially reduces the child penalty in employment later in life. Conversely, we find that greater exposure to working fathers increases the penalty. Our findings suggest that parental role models during adolescence are critical for shaping child-related gender gaps in the labor market.
     
 <br>
 **Occupational segregation, gender and career choices** with A. Cools, E. Patacchini and N. Szembrot
@@ -27,7 +28,7 @@ a set of complementary identification strategies based on differences in mobiliz
 <br>
 ### Immigration
 <br>
-**Unauthorized Precarity: How Immigration Status Stratifies Social and Economic Well-Being** with M. Hall
+**Innovations and Challenges in Assessing the Effects of Immigrant Legal Status** with M. Hall, S.Gleeson _Working Paper, September 2024_
 
 <br>
 ## Other work 
