@@ -11,7 +11,7 @@ author_profile: true
 > Child penalties account for most of the remaining gender inequality in the labor market. However, very little is known about why child penalties remain so large and gendered. In this work  I investigate the effect of the closing of the gender wage gap on employment penalties for mothers over the years 1980-2010.  To do so, I leverage gender differences in occupational choices and combine gender-specific local labor market shocks with pseudo-event studies around childbirth. I find evidence of a greater fall in child penalties in local labor markets with a faster convergence in the wage rate of women and men, and I explore possible mechanisms.
 
 <br>
-**[Child Penalties and Parental Role Models: Classroom Exposure Effects](/files/KOP_sept2024.pdf)** with H. Kleven and E. Patacchini.
+**[Child Penalties and Parental Role Models: Classroom Exposure Effects](https://www.nber.org/papers/w33002?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg10)** with H. Kleven and E. Patacchini. _NBER Working Paper_
  _Working Paper, September 2024_
 > This paper investigates whether the effects of children on the labor market outcomes of women relative to men — child penalties — are shaped by the work behavior of peers’ parents during adolescence. Leveraging quasi-random variation in the fraction of peers with working parents  across cohorts within schools, we find that greater exposure to working mothers during adolescence substantially reduces the child penalty in employment later in life. Conversely, we find that greater exposure to working fathers increases the penalty. Our findings suggest that parental role models during adolescence are critical for shaping child-related gender gaps in the labor market.
     
@@ -28,10 +28,15 @@ a set of complementary identification strategies based on differences in mobiliz
 <br>
 ### Immigration
 <br>
-**Innovations and Challenges in Assessing the Effects of Immigrant Legal Status** with M. Hall, S.Gleeson _Working Paper, September 2024_
+**Innovations and Challenges in Assessing the Effects of Immigrant Legal Status** with M. Hall, S.Gleeson _Invited submission to Annual Review of Sociology, submitted September 2024_
+
+**Origin Ties and Destination Experiences: Quantifying Online Transnationalism among U.S. Immigrant Groups** with L. Zhao, M. Hall _submitted October 2024_
 
 <br>
 ## Other work 
+<br>
+**The Intergenerational Transmission of Violence** with P. Giuliano, E. Patacchini
+
 <br>
 **Local governors as tax enforcers** with C. Lacava
 
