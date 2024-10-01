@@ -14,6 +14,6 @@ My work primarily focuses on how local labor markets and neighborhood characteri
 
 I work under the supervision of  [Doug Miller](https://publicpolicy.cornell.edu/people/douglas-miller/), [Matt Hall](https://publicpolicy.cornell.edu/people/matthew-hall/), [Eleonora Patacchini](https://www.epatacchini.com/)  and [Seth Sanders](https://publicpolicy.cornell.edu/people/seth-sanders/). 
 
-I am on the 2024-2025 academic job market.
+**I am on the 2024-2025 academic job market.**
 
 
