@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Selected Work in Progress"
+title: ""
 permalink: /research/
 author_profile: true
 ---
