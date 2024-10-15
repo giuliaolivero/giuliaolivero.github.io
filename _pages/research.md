@@ -15,7 +15,7 @@ author_profile: true
 > This paper investigates whether the effects of children on the labor market outcomes of women relative to men — child penalties — are shaped by the work behavior of peers’ parents during adolescence. Leveraging quasi-random variation in the fraction of peers with working parents  across cohorts within schools, we find that greater exposure to working mothers during adolescence substantially reduces the child penalty in employment later in life. Conversely, we find that greater exposure to working fathers increases the penalty. Our findings suggest that parental role models during adolescence are critical for shaping child-related gender gaps in the labor market.
 
 <br>
-**Innovations and Challenges in Assessing the Effects of Immigrant Legal Status** with M. Hall, S.Gleeson. _Invited submission to Annual Review of Sociology, submitted September 2024_
+**Innovations and Challenges in Assessing the Effects of Immigrant Legal Status** with M. Hall, S.Gleeson. _R&R Annual Review of Sociology, October 2024_
 
 <br>
 **Origin Ties and Destination Experiences: Quantifying Online Transnationalism among U.S. Immigrant Groups** with L. Zhao, M. Hall.  _Submitted October 2024_
