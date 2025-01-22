@@ -7,7 +7,7 @@ author_profile: true
 
 ### Working Papers & Publications
 <br>
-**The gender wage gap and the child penalty** [JMP]
+**[The gender wage gap and the child penalty]**(/files/Olivero_JMP.pdf) [JMP]
 > Child penalties account for most of the remaining gender inequality in the labor market. Yet, we still do not know much about why they remain so large and persistent. I start by documenting a novel fact, which is the presence of heterogeneity in child penalties in the US by measures of intra-household comparative advantage. Then, I investigate the effect of the closing of the gender wage gap on employment penalties for mothers over the years 1980-2010. To do so, I leverage gender differences in occupational choices and combine gender-specific local labor market shocks with pseudo-event studies around childbirth. I find evidence of a greater fall in child penalties in local labor markets with a faster convergence in the wage rate of women and men. I explore possible mechanisms and find evidence of an increase in education of women, relative to men, delayed childbirth, and suggestive evidence of a shift in gender norms. 
 
 <br>
