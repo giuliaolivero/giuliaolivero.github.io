@@ -12,7 +12,7 @@ author_profile: true
 
 <br>
 **[Child Penalties and Parental Role Models: Classroom Exposure Effects](https://www.nber.org/papers/w33002?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg10)** with H. Kleven and E. Patacchini. _NBER Working Paper_ 
-<br>Featured in [Cornell Chronicle](https://news.cornell.edu/stories/2024/12/working-moms-set-example-next-generation)
+<br>Featured in [Cornell Chronicle](https://news.cornell.edu/stories/2024/12/working-moms-set-example-next-generation) [VoxEU]{https://cepr.org/voxeu/columns/child-penalties-and-parental-role-models-how-classroom-exposure-shapes-gender-gaps)
 > This paper investigates whether the effects of children on the labor market outcomes of women relative to men — child penalties — are shaped by the work behavior of peers’ parents during adolescence. Leveraging quasi-random variation in the fraction of peers with working parents  across cohorts within schools, we find that greater exposure to working mothers during adolescence substantially reduces the child penalty in employment later in life. Conversely, we find that greater exposure to working fathers increases the penalty. Our findings suggest that parental role models during adolescence are critical for shaping child-related gender gaps in the labor market.
 
 <br>
