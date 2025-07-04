@@ -14,6 +14,6 @@ My work primarily focuses on how local labor markets and neighborhood characteri
 
 I work under the supervision of  [Doug Miller](https://publicpolicy.cornell.edu/people/douglas-miller/), [Matt Hall](https://publicpolicy.cornell.edu/people/matthew-hall/), [Eleonora Patacchini](https://www.epatacchini.com/)  and [Seth Sanders](https://publicpolicy.cornell.edu/people/seth-sanders/). 
 
-**I am on the 2024-2025 job market.**
+In the fall, I will join the [California Center for Population Research](https://ccpr.ucla.edu) at UCLA as a Postdoctoral Scholar, working under the supervision of [Martha Bailey](https://sites.google.com/g.ucla.edu/marthajbailey). 
 
 
