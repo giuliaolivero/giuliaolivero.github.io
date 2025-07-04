@@ -9,6 +9,8 @@ author_profile: true
 **[Innovations and Challenges in Assessing the Effects of Immigrant Legal Status](https://www-annualreviews-org.proxy.library.cornell.edu/content/journals/10.1146/annurev-soc-031021-012330)** with M. Hall, S.Gleeson. _Annual Review of Sociology (2025)_
 > Immigrant legal status is a defining factor in the socio-economic trajectories of millions of individuals and families in the U.S. Unauthorized immigrants, in particular, face a complex set of challenges that influence nearly every aspect of their lives, from access to education and healthcare to labor market opportunities and community integration. Legal status affects not only those who lack documentation but also their children and extended family members, creating intergenerational patterns of disadvantage that shape social mobility and economic outcomes. Scholars have increasingly examined how legal precarity leads to economic marginalization, social exclusion, and psychological stress, as well as how legal protections can mitigate these adverse effects. This review delves into the trends and patterns of unauthorized immigration in the U.S., explores the methodologies used to measure unauthorized populations, and examines the economic, social, and intergenerational impacts of legal status. Understanding these dynamics is crucial to developing policies that address the deep-rooted inequalities faced by unauthorized migrants and their families.
 
+
+<br>
 ### Working Papers 
 <br>
 **[Child Penalties and Parental Role Models: Classroom Exposure Effects](/files/KOP_july2025.pdf)** with H. Kleven and E. Patacchini. _NBER Working Paper_ 
@@ -20,7 +22,7 @@ author_profile: true
 > While scholars have long acknowledged the importance of understanding immigrants' connections to their countries of origin, large-scale, cross-group analyses remain limited. This research note addresses this gap by introducing a novel measure of online transnationalism, which captures digital ties between 41 U.S. immigrant groups and their homelands - representing 75\% of the U.S. adult immigrant population. Our work offers the first comprehensive analysis of how online transnationalism varies both across immigrant groups and across destination contexts. Findings demonstrate that immigrant groups with higher online transnationalism tend to be less established and more recent arrivals. At the same time, we do not find evidence that increased connectivity is associated with worse economic outcomes.
 
 <br>
-**[The gender wage gap and the child penalty]** 
+**The gender wage gap and the child penalty** 
 > Child penalties account for most of the remaining gender inequality in the labor market. Yet, we still do not know much about why they remain so large and persistent. I start by documenting a novel fact, which is the presence of heterogeneity in child penalties in the US by measures of intra-household comparative advantage. Then, I investigate the effect of the closing of the gender wage gap on employment penalties for mothers over the years 1980-2010. To do so, I leverage gender differences in occupational choices and combine gender-specific local labor market shocks with pseudo-event studies around childbirth. I find evidence of a greater fall in child penalties in local labor markets with a faster convergence in the wage rate of women and men. I explore possible mechanisms and find evidence of an increase in education of women, relative to men, delayed childbirth, and suggestive evidence of a shift in gender norms. 
 
 
