@@ -7,8 +7,6 @@ author_profile: true
 ### Publications 
 <br>
 **[Innovations and Challenges in Assessing the Effects of Immigrant Legal Status](https://www-annualreviews-org.proxy.library.cornell.edu/content/journals/10.1146/annurev-soc-031021-012330)** with M. Hall, S.Gleeson. _Annual Review of Sociology (2025)_
-> Immigrant legal status is a defining factor in the socio-economic trajectories of millions of individuals and families in the U.S. Unauthorized immigrants, in particular, face a complex set of challenges that influence nearly every aspect of their lives, from access to education and healthcare to labor market opportunities and community integration. Legal status affects not only those who lack documentation but also their children and extended family members, creating intergenerational patterns of disadvantage that shape social mobility and economic outcomes. Scholars have increasingly examined how legal precarity leads to economic marginalization, social exclusion, and psychological stress, as well as how legal protections can mitigate these adverse effects. This review delves into the trends and patterns of unauthorized immigration in the U.S., explores the methodologies used to measure unauthorized populations, and examines the economic, social, and intergenerational impacts of legal status. Understanding these dynamics is crucial to developing policies that address the deep-rooted inequalities faced by unauthorized migrants and their families.
-
 
 <br>
 ### Working Papers 
