@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "go94@cornell.edu"
+    email                : "go94@g.ucla.edu"
   generatedFields:
     date:
       type               : "date"
@@ -82,12 +82,12 @@ google:
 author:
   name             : "Giulia Olivero"
   avatar           : "pic_new.png"
-  bio              : "Ph.D Candidate Jeb E. Brooks School of Public Policy"
-  location         : "Ithaca, NY"
+  bio              : "Postdoctoral Scholar, California Center for Population Research (CCPR), UCLA"
+  location         : "West Hollywood, CA"
   employer         :
   pubmed           :
   googlescholar    :
-  email            : go94@cornell.edu
+  email            : go94@g.ucla.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

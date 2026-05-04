@@ -6,14 +6,9 @@ author_profile: true
 ---
 
 #### Office
-Martha Van Rensselaer Hall 3308
-
-<br>
-
-#### Mailing address
-Cornell Jeb E. Brooks School of Public Policy, Room 3308 Martha Van Rensselaer Hall, 37 Forest Home Dr, Ithaca, NY 14850
+California Center for Population Research (CCPR), Public Affairs Building, Suite 4284E, UCLA
 
 <br>
 
 #### Email address
-go94 [at] cornell [dot] edu
+go94 [at] g [dot] ucla [dot] edu
