@@ -6,12 +6,12 @@ author_profile: true
 ---
 ### Publications 
 <br>
-**[Innovations and Challenges in Assessing the Effects of Immigrant Legal Status](https://www-annualreviews-org.proxy.library.cornell.edu/content/journals/10.1146/annurev-soc-031021-012330)** with M. Hall, S.Gleeson. _Annual Review of Sociology (2025)_
+**[The Impact of Undocumented Status in the United States: Empirical Challenges and New Frontiers](https://www-annualreviews-org.proxy.library.cornell.edu/content/journals/10.1146/annurev-soc-031021-012330)** with M. Hall, S.Gleeson. _Annual Review of Sociology (2025)_
 
 <br>
 ### Working Papers 
 <br>
-**[Child Penalties and Parental Role Models: Classroom Exposure Effects](/files/KOP_may2026.pdf)** with H. Kleven and E. Patacchini. <span style="color:blue">**[New draft !]**</span>
+**[Child Penalties and Parental Role Models: Classroom Exposure Effects](/files/KOP_may2026.pdf)** with H. Kleven and E. Patacchini. <span style="color:blue">**[New draft!]**</span>
 <br>Featured in [Cornell Chronicle](https://news.cornell.edu/stories/2024/12/working-moms-set-example-next-generation) [VoxEU](https://cepr.org/voxeu/columns/child-penalties-and-parental-role-models-how-classroom-exposure-shapes-gender-gaps)
 <br>_Presented: SOLE 2026, All-UC Demography Workshop_
 
