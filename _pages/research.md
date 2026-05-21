@@ -18,7 +18,7 @@ author_profile: true
 
 <br>
 **Local Governors as Tax Enforcers** with C. Lacava. <span style="color:blue">**[New draft coming soon!]**</span>
-<br>_Presented: CSEF Lunch Talk, APPAM 2025_
+<br>_Presented: CSEF Lunch Talk (December 2025), APPAM 2025_
 
 <br>
 **The Gender Wage Gap and the Child Penalty** <span style="color:blue">**[Draft available upon request]**</span>
