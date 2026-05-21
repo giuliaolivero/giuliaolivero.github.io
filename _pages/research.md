@@ -11,7 +11,7 @@ author_profile: true
 <br>
 ### Working Papers 
 <br>
-**[Child Penalties and Parental Role Models: Classroom Exposure Effects](/files/KOP_july2025.pdf)** with H. Kleven and E. Patacchini. <span style="color:blue">**[New draft coming soon!]**</span>
+**[Child Penalties and Parental Role Models: Classroom Exposure Effects](/files/KOP_may2026.pdf)** with H. Kleven and E. Patacchini. <span style="color:blue">**[New draft !]**</span>
 <br>Featured in [Cornell Chronicle](https://news.cornell.edu/stories/2024/12/working-moms-set-example-next-generation) [VoxEU](https://cepr.org/voxeu/columns/child-penalties-and-parental-role-models-how-classroom-exposure-shapes-gender-gaps)
 <br>_Presented: SOLE 2026, All-UC Demography Workshop_
 
