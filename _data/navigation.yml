@@ -1,7 +1,6 @@
 # main links links
 main:
   - title: "CV"
-    url: /cv/
     url: /files/Olivero_CV_2026.pdf
 
   - title: "Research"
